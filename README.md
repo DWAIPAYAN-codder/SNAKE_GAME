@@ -1,6 +1,6 @@
 # SNAKE_GAME
 #IT's my first year project.
-TODO:
+DOs':
 
 implement game controls, loss conditions on client side
 handle win/loss on client side
